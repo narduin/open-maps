@@ -13,13 +13,13 @@
     "openmaptiles": {
       "type": "vector",
       "tiles": [
-      "https://narduin-maps.netlify.com/idf/{z}/{x}/{y}.pbf"
+      "https://nick-map.netlify.com/idf/{z}/{x}/{y}.pbf"
     ],
     "maxzoom": 14
     }
   },
-  "sprite": "https://narduin-maps.netlify.com/basic/sprite",
-  "glyphs": "https://narduin-maps.netlify.com/fonts/{fontstack}/{range}.pbf",
+  "sprite": "https://nick-map.netlify.com/basic/sprite",
+  "glyphs": "https://nick-map.netlify.com/fonts/{fontstack}/{range}.pbf",
   "layers": [
     {
       "id": "background",
